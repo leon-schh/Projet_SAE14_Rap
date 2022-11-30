@@ -1,0 +1,69 @@
+body{
+    background-color : black;
+    color : white;
+}
+header{
+    display: flex;
+    background: #8DF49B;
+    background: linear-gradient(to bottom, #8DF49B 10%, #599DF8 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-color: white;
+    font-family: 'Nunito', sans-serif;
+    font-size : 350%;
+    text-align: center;
+    border-style : solid;
+    border-radius : 30px;
+    font-weight: 800;
+}
+.titre{
+    flex-basis: 80%;
+    margin-left: 10%;
+}
+.home{
+    flex-basis: 10%;
+}
+.icon{
+    width: 20%;
+}
+
+nav{
+    display: flex;
+    background: #8DF49B;
+    background: linear-gradient(to bottom, #8DF49B 10%, #599DF8 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Nunito', sans-serif;
+    font-size : 300%;
+    margin-left : 25%;
+    margin-right: 25%;
+    margin-top : 20px;
+    font-weight: 800;
+    
+    
+}
+
+u{
+    border-bottom: solid;
+    border-color : #599DF8;    
+}
+   
+
+
+.main{
+    margin-left : 30%
+}
+
+
+
+.art{
+    font-family: 'Nunito', sans-serif;
+    font-size : 200%;
+    margin-top : 5%;
+    margin-left: 15%;
+    margin-right : 15%;
+    text-align: left;
+    border-style : solid;
+    padding:5%;
+    border-radius : 30px;
+}

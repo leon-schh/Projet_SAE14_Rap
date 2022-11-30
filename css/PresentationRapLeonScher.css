@@ -1,0 +1,35 @@
+header{
+    background-color : black;
+    color : white;
+    font-family: 'Nunito', sans-serif;
+    font-size : 350%;
+    text-align: center;
+    border-style : solid;
+    border-radius : 30px;
+    font-weight: 800;
+}
+
+body{
+    background-color : black;
+    color : white;
+}
+
+article{
+    color : #00ffcd;
+    font-family: 'Nunito', sans-serif;
+    font-size : 350%;
+    text-align: center;
+    border-style : solid;
+    border-radius : 30px;
+    width : 80%;
+    margin : auto;
+    margin-top : 7%;
+}
+
+a{
+    color : #00ffcd;
+}
+
+.main{
+    color : white;
+}

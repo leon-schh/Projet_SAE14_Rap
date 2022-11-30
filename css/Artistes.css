@@ -1,0 +1,177 @@
+body{
+    background-color : black;
+    color: white;
+}
+header{
+    display: flex;
+    font-family: 'Nunito', sans-serif;
+    font-size : 350%;
+    text-align: center;
+    border-style : solid;
+    border-radius : 30px;
+    font-weight: 800;
+    border-color : white;
+    background: #8DF49B;
+background: linear-gradient(to bottom, #8DF49B 10%, #599DF8 90%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.titre{
+    flex-basis: 80%;
+    margin-left: 10%;
+}
+.home{
+    flex-basis: 10%;
+}
+.icon{
+    width: 20%;
+}
+
+nav{
+    display: flex;
+    background: #8DF49B;
+    background: linear-gradient(to bottom, #8DF49B 10%, #599DF8 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Nunito', sans-serif;
+    font-size : 300%;
+    margin-left : 19%;
+    margin-right: 19%;
+    margin-top : 3%; 
+    font-weight: 800;
+}
+
+.main{
+    margin-left : 30%
+}
+
+u{
+    border-bottom: solid;
+    border-color : #599DF8;
+    
+}
+
+.art{
+    font-family: 'Nunito', sans-serif;
+    font-size : 150%;
+}
+section{
+    padding : 3%;
+    margin-top : 5%
+}
+.txt{
+    font-family: 'Nunito', sans-serif;
+    font-size : 200%;
+    margin-bottom: 5%;
+    border-style : solid;
+    border-radius : 30px;
+    padding : 3%;
+}
+
+a{
+    background: #8DF49B;
+    background: linear-gradient(to bottom, #8DF49B 10%, #599DF8 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Nunito', sans-serif;
+    text-align: center
+}
+.img2Pac{
+    width : 50%;
+}
+.imgSD{
+    width : 30.4%;
+}
+.imgem{
+    width : 32.8%;
+}
+.dmain{
+    display : flex;
+}
+.div1{
+    margin-left: 5%;
+    text-align: center;
+}
+.div2{
+    margin-left: 10%;
+    text-align: center;
+}
+.div3{
+    margin-left: 10%;
+    text-align: center;
+}
+
+
+.txt2{
+    font-family: 'Nunito', sans-serif;
+    font-size : 200%;
+    margin-bottom: 5%;
+    border-style : solid;
+    border-radius : 30px;
+    padding : 3%
+}
+.imgMC{
+    width : 40%;
+}
+.imgMK{
+    width : 29%;
+}
+.imgbooba{
+    width : 69.9%;
+}
+.div4{
+    margin-left: 5%;
+    text-align: center;
+}
+.div5{
+    margin-left: 10%;
+    text-align: center;
+}
+.div6{
+    margin-left: 10%;
+    text-align: center;
+}
+
+.dmain2{
+    display : flex;
+    
+}
+
+
+.txt3{
+    font-family: 'Nunito', sans-serif;
+    font-size : 200%;
+    margin-bottom: 5%;
+    border-style : solid;
+    border-radius : 30px;
+    padding : 3%
+}
+p{
+    text-align : center;
+    font-size : 140%
+        
+}
+
+.imgjul{
+    width : 47%
+}
+.imgK{
+    width : 17.3%
+}
+
+.div7{
+    margin-left: 5%;
+    text-align: center;
+}
+.div8{
+    margin-left: 10%;
+    text-align: center;
+}
+.div9{
+    margin-left: 10%;
+    text-align: center;
+}
+.dmain3{
+    display : flex;
+}

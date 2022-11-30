@@ -1,0 +1,63 @@
+header{
+    display: flex;
+    border-color : white;
+    font-family: 'Nunito', sans-serif;
+    font-size : 350%;
+    text-align: center;
+    border-style : solid;
+    border-radius : 30px;
+    font-weight: 800;
+    background: #8DF49B;
+    background: linear-gradient(to bottom, #8DF49B 10%, #599DF8 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}
+.titre{
+    flex-basis: 80%;
+    margin-left: 10%;
+}
+.home{
+    flex-basis: 10%;
+}
+.icon{
+    width: 20%;
+}
+body{
+    background-color : black;
+    color : white;
+}
+
+nav{
+    display: flex;
+    font-family: 'Nunito', sans-serif;
+    font-size : 300%;
+    margin-left : 25%;
+    margin-right: 25%;
+    margin-top : 20px;
+    font-weight: 800;
+    background: #8DF49B;
+    background: linear-gradient(to bottom, #8DF49B 10%, #599DF8 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}
+
+.main{
+    margin-left : 30%
+}
+
+u{
+    border-bottom: solid;
+    border-color : #599DF8;
+}
+
+.art{
+    font-family: 'Nunito', sans-serif;
+    font-size : 200%;
+    margin-top : 5%;
+    margin-left : 15%; 
+    margin-right : 15%;
+    border-style : solid;
+    border-radius : 30px;
+    padding : 5%;
+    
+}
